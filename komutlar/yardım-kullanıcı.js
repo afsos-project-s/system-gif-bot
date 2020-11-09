@@ -35,6 +35,6 @@ exports.conf = {
 
 exports.help = {
   name: 'kullanıcı',
-  description: 'matador',
+  description: 'skorsky',
   usage: 'kullanıcı'
 };

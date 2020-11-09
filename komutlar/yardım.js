@@ -38,6 +38,6 @@ permLevel: 0
 
 exports.help = {
   name: 'yardım',
-  description: 'matador',
+  description: 'skorsky',
   usage: 'yardım'
 };

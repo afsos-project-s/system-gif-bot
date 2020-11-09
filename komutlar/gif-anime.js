@@ -36,7 +36,7 @@ exports.help = {
 
   name: 'anime',
 
-  description: 'matador',
+  description: 'skorsky',
 
   usage: 'anime'
 

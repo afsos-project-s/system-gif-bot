@@ -94,6 +94,6 @@ exports.conf = {
 };
 exports.help = {
   name: 'kullanıcıbilgim',
-  description: 'matador',
+  description: 'skorsky',
   usage: 'kullanıcıbilgim'
 };

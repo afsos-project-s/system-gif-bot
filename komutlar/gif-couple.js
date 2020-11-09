@@ -36,7 +36,7 @@ exports.help = {
 
   name: 'couple',
 
-  description: 'matador',
+  description: 'skorsky',
 
   usage: 'couple'
 

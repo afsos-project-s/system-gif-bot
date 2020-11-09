@@ -34,6 +34,6 @@ exports.conf = {
 
 exports.help = {
   name: 'ping',
-  description: 'matador',
+  description: 'skorsky',
   usage: 'ping'
 };
