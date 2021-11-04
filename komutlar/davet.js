@@ -9,7 +9,7 @@ const embed = new Discord.MessageEmbed()
 
 .addField("Yapımcılarım ", " <@894605186557935677>")
 
-.setDescription(`**Botun Davet Linki ;** [TIKLA](BOTUNUZUN DAVET LINKI) \n**Destek Sunucusu ;** [TIKLA](BOTUNUZUN DAVET LINKI)`) 
+.setDescription(`**Botun Davet Linki ;** [TIKLA](https://discord.com/api/oauth2/authorize?client_id=905826314248929350&permissions=8&scope=bot) \n**Destek Sunucusu ;** [TIKLA](https://discord.gg/pQN9dnzD3s)`) 
 .setThumbnail(client.user.avatarURL)
 .setFooter(`${message.author.username} Başarıyla Davet Sistemi Kullandı!`, message.author.avatarURL)
 .setColor(`BLACK`)
@@ -27,6 +27,6 @@ exports.conf = {
 
 exports.help = {
   name: 'davet',
-  description: 'skorsky',
+  description: 'josef',
   usage: 'davet'
 }; 

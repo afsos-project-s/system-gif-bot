@@ -81,7 +81,7 @@ exports.run = async (bot, msg, args) => {
         .addField(`Botmu:`, userinfo.bot, true)
         .addField(`Roller:`, `${msg.guild.members.cache.get(user.id).roles.cache.filter(r => r.name !== "@everyone").map(r => r).join(' **|** ') || "**Bu kullanıcıda hiçbir rol bulunmuyor**"}`, false)
         .addField(`Son gönderdiği mesaj:`, userinfo.sonmesaj, false)
-        .setFooter(`${botadi} Sunar`)
+        .setFooter(`Josef Sunar`)
         
         msg.channel.send(uembed)
         }

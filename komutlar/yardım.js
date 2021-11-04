@@ -23,7 +23,7 @@ const embed = new Discord.MessageEmbed()
 
 **Linkler**
 
-[Botun Destek Sunucusuna Gitmek İçin Tıkla]()    
+" [Sunucumuza Katıl](https://discord.gg/pQN9dnzD3s)", )
 `)
     
 message.channel.send({embed});
