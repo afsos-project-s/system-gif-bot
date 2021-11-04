@@ -7,7 +7,7 @@ const embed = new Discord.MessageEmbed()
         
 .setTitle(`${client.user.username}`) 
 
-.addField("Yapımcılarım ", " <@515590960953032705>")
+.addField("Yapımcılarım ", " <@894605186557935677>")
 
 .setDescription(`**Botun Davet Linki ;** [TIKLA](BOTUNUZUN DAVET LINKI) \n**Destek Sunucusu ;** [TIKLA](BOTUNUZUN DAVET LINKI)`) 
 .setThumbnail(client.user.avatarURL)

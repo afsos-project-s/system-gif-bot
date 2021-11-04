@@ -1,1 +1,1 @@
-# Skorsky-Gif
+# Josef-Gif-Bot

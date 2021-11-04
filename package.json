@@ -1,7 +1,7 @@
 {
   "name": "hello-express",
   "version": "0.0.1",
-  "description": "lrowsxrd gif bot v12",
+  "description": "Josef gif bot v12",
   "main": "plus.js",
   "scripts": {
     "start": "node plus.js"
