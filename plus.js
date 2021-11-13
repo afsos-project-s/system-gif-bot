@@ -12,7 +12,7 @@ client.on('ready', async () => {
     client.appInfo = await client.fetchApplication();
   }, 600);
   
- client.user.setActivity(`Josef Gif Bot`, { type:"WATHING" })
+ client.user.setActivity(` Gif Bot`, { type:"WATHING" })
   console.log("[BOT] Kullanıma Hazır!")
 });
 
